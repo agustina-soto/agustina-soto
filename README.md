@@ -1,5 +1,5 @@
 # ¡Hola! Soy Agus 👩🏻‍💻
 
 <p align="center">
-  <img src="gif_git.gif" alt="banner" />
+  <img src="git_gif.gif" alt="banner" />
 </p>
